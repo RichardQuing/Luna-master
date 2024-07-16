@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.navbar-brand img {
+    width: 50px; /* Ajusta el tamaño según tus necesidades */
+    height: 50px;
+}
+
+.navbar {
+    background-color: #f8f9fa; /* Color de fondo del navbar */
+}
+
+.nav-link {
+    color: #343a40 !important; /* Color de los enlaces del navbar */
+    font-size: 25px; /* Tamaño de fuente para los enlaces */
+}
+
+.nav-link.active {
+    font-weight: bold; /* Negrita para el enlace activo */
+}
+
+.dropdown-menu {
+    background-color: #ffffff; /* Color de fondo del menú desplegable */
+}
+
+.dropdown-item:hover {
+    background-color: #f8f9fa; /* Color de fondo al pasar el ratón */
+}
+
+.form-control {
+    width: 200px; /* Ancho del campo de búsqueda */
+}
